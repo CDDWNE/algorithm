@@ -8,4 +8,4 @@ graph = []
 for i in range(N * H):
     graph.append(list(map(int, input().split())))
 
-print(graph)
+count = 0
